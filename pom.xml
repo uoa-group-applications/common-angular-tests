@@ -17,5 +17,11 @@
 	<description>
 		Common angular testing infrastructure required to test Angular apps. Should be included test scope.
 	</description>
+
+	<scm>
+		<url>https://github.com/uoa-group-applications/common-angular-tests</url>
+		<connection>scm:git:https://github.com/uoa-group-applications/common-angular-tests.git</connection>
+		<developerConnection>scm:git:git@github.com:uoa-group-applications/common-angular-tests.git</developerConnection>
+	</scm>
 	
 </project>
