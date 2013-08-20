@@ -10,7 +10,7 @@
 	
 	<groupId>nz.ac.auckland.common</groupId>
 	<artifactId>common-angular-tests</artifactId>
-	<version>1.4-SNAPSHOT</version>
+	<version>1.4</version>
 	<packaging>jar</packaging>
 	
 	<name>Angular Common Tests (overlay)</name>
@@ -22,6 +22,7 @@
 		<url>https://github.com/uoa-group-applications/common-angular-tests</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/common-angular-tests.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/common-angular-tests.git</developerConnection>
-	</scm>
+	  <tag>common-angular-tests-1.4</tag>
+  </scm>
 	
 </project>
