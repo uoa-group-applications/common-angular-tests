@@ -8,20 +8,20 @@
 		<version>1.1</version>
 	</parent>
 	
-	<groupId>nz.ac.auckland.common</groupId>
-	<artifactId>common-angular-tests</artifactId>
-	<version>1.5-SNAPSHOT</version>
+	<groupId>nz.ac.auckland.lmz.javascript</groupId>
+	<artifactId>javascript-angular-tests</artifactId>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	
-	<name>Angular Common Tests (overlay)</name>
+	<name>Angular Common Tests</name>
 	<description>
 		Common angular testing infrastructure required to test Angular apps. Should be included test scope.
 	</description>
 
 	<scm>
-		<url>https://github.com/uoa-group-applications/common-angular-tests</url>
-		<connection>scm:git:https://github.com/uoa-group-applications/common-angular-tests.git</connection>
-		<developerConnection>scm:git:git@github.com:uoa-group-applications/common-angular-tests.git</developerConnection>
+		<url>https://github.com/uoa-group-applications/javascript-angular-tests</url>
+		<connection>scm:git:https://github.com/uoa-group-applications/javascript-angular-tests.git</connection>
+		<developerConnection>scm:git:git@github.com:uoa-group-applications/javascript-angular-tests.git</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
 	
